@@ -17,7 +17,7 @@ Bu layihə **C# WinForms** istifadə edilərək hazırlanmış sadə bir satış
 ## 🛠️ Texnologiyalar
 
 - C#  
-- WinForms (.NET Framework / .NET Core — layihəyə uyğun)
+- WinForms 
 
 ---
 
