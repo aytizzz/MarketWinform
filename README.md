@@ -9,7 +9,7 @@ Bu layihə **C# WinForms** istifadə edilərək hazırlanmış sadə bir satış
 - ✅ Məhsul kodunun əlavə olunması  
 - ✅ Kod siyahısının göstərilməsi  
 - ✅ Ödəniş məbləğinin hesablama paneli ilə daxil edilməsi  
-- ✅ Ümumi, ödənilən və qaytarılan məbləğin göstərilməsi  
+- ✅ Ümumi, ödənilən və ƏDV nin QR code vasitəsi ilə göstərilməsi 
 - ✅ Rəqəmsal kalkulyator interfeysi  
 
 ---
